@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "image": "/images/headphones.jpg",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Gaming Mouse",
+      "price": 29.99,
+      "image": "/images/mouse.jpg",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+      "category": "Accessories"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone Stand",
+      "price": 15.99,
+      "image": "/images/stand.jpg",
+      "description": "Adjustable aluminum stand for smartphones and tablets.",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "image": "/images/keyboard.jpg",
+      "description": "RGB mechanical keyboard with hot-swappable switches.",
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Portable SSD 1TB",
+      "price": 129.99,
+      "image": "/images/ssd.jpg",
+      "description": "Fast and durable 1TB external SSD for storage on the go.",
+      "category": "Storage"
+    }
+  ]
+  
